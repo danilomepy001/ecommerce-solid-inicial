@@ -1,7 +1,9 @@
 import nodemailer, { Transporter } from 'nodemailer';
 import logger from '../lib/logger';
 import { IMailProvider, Mail } from './IMailProvider';
+import { injectable } from 'inversify';
 
+@injectable()
 export class EtherealMailProvider implements IMailProvider {
   private transporter: Transporter | null = null;
 

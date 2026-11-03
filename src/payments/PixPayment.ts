@@ -1,6 +1,8 @@
 import logger from '../lib/logger';
 import { IPaymentMethod } from './IPaymentMethod';
+import { injectable } from 'inversify';
 
+@injectable()
 export class PixPayment implements IPaymentMethod {
   readonly name = 'pix';
 

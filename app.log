@@ -1,0 +1,5 @@
+{"level":"info","message":"Crédito de R$ 110 no cartão final 5678","timestamp":"2026-11-03T12:14:33.281Z"}
+{"level":"info","message":"Ethereal Mail configurado: lb7ujiba746mgzmx@ethereal.email","timestamp":"2026-11-03T12:14:36.759Z"}
+{"level":"error","message":"Erro ao processar pedido: connect ETIMEDOUT 95.216.108.161:587","timestamp":"2026-11-03T12:14:57.945Z"}
+{"level":"info","message":"Crédito de R$ 110 no cartão final 5678","timestamp":"2026-11-03T12:15:06.168Z"}
+{"level":"error","message":"Erro ao processar pedido: connect ETIMEDOUT 95.216.108.161:587","timestamp":"2026-11-03T12:15:27.218Z"}
